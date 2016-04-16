@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">File Sharing</string>
+    <string name="save_file">Save a file</string>
+    <string name="share_file_internal">Share a file in internal storage</string>
+    <string name="share_file_cache">Share a file in cache folder</string>
+    <string name="share_file_external">Share a file in external storage</string>
+</resources>

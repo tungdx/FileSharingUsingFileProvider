@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path
+        name="internal_docs"
+        path="docs/" />
+    <external-path
+        name="external_docs"
+        path="Android/data/vn.tungdx.filesharing/files/docs/" />
+    <cache-path
+        name="cache_docs"
+        path="docs/" />
+</paths>
